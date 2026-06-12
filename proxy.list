@@ -57,6 +57,7 @@ DOMAIN-KEYWORD,parsec
 DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,object-storage.apple.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
