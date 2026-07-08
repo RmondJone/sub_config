@@ -87,7 +87,11 @@ DOMAIN-KEYWORD,zerotier
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,gradle.org
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,telega
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telesco.pe
 DOMAIN-KEYWORD,huggingface
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,twimg
