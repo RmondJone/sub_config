@@ -121,6 +121,7 @@ DOMAIN-KEYWORD,figma
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-KEYWORD,mermaid
 DOMAIN-KEYWORD,cloudfront
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-KEYWORD,pythonhosted
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
