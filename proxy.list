@@ -115,7 +115,10 @@ DOMAIN-KEYWORD,nodeseek
 DOMAIN-KEYWORD,mackie100projects
 DOMAIN-KEYWORD,trae
 DOMAIN-KEYWORD,jetbrains
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,figmacdn.com
 DOMAIN-KEYWORD,figma
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-KEYWORD,mermaid
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,pythonhosted
