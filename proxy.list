@@ -102,6 +102,16 @@ DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,producthunt
 DOMAIN-KEYWORD,sharepoint
 DOMAIN-KEYWORD,onmicrosoft
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-KEYWORD,codeium
 DOMAIN-KEYWORD,android
 DOMAIN-SUFFIX,zxid.caict.ac.cn
